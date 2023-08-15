@@ -1,0 +1,92 @@
+.dropdown {
+  position: relative;
+  left: 1%;
+  bottom: 25rem;
+  padding-top: 1rem;
+}
+
+.setTimeButton {
+  position: relative;
+  left: 12%;
+  bottom: 27rem;
+}
+
+.chart-container {
+  width: 800px;
+  height: 500px;
+  border: 2px solid #518175;
+  padding: 10px;
+  left: 20%;
+  position: relative;
+  top: 2rem;
+  background-color: aliceblue;
+}
+
+.homeLogo {
+  bottom: 5rem;
+  position: relative;
+  right: 7%;
+  height: 30px;
+  width: 30px;
+  color: rgb(204, 122, 28);
+}
+
+.container {
+  position: relative;
+}
+
+.text {
+  font-style: italic;
+  color: black;
+}
+
+body {
+  background-color: #f3f3f3;
+}
+
+.trending {
+  position: relative;
+  bottom: 16rem;
+  left: 5rem;
+  border-radius: 10px 100px / 120px;
+  color: rgb(3, 3, 3);
+  border: solid;
+  width: 300px;
+  background-color: rgb(146, 231, 165);
+  border-bottom-left-radius: 20px;
+  text-decoration: #0c0f0f;
+}
+
+.topTrendingText {
+  border: solid;
+  border-radius: 10px;
+  position: relative;
+  right: 5%;
+  background-color: rgb(100, 238, 146);
+  margin-bottom: 3%;
+  text-align: center;
+  font-family: Georgia, serif;
+}
+
+.lowestTrending {
+  position: relative;
+  bottom: 42rem;
+  left: 93rem;
+  border-radius: 10px 100px / 120px;
+  color: rgb(7, 6, 6);
+  border: solid;
+  width: 300px;
+  background-color: rgb(243, 129, 129);
+  border-bottom-left-radius: 20px;
+}
+
+.lowesTrendingText {
+  border: solid;
+  border-radius: 10px;
+  position: relative;
+  right: 5%;
+  background-color: rgb(236, 59, 59);
+  margin-bottom: 3%;
+  text-align: center;
+  font-family: Georgia, serif;
+}
